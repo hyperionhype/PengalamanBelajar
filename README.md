@@ -13,3 +13,9 @@ Memulai kelas **Belajar Dasar Git dengan GitHub**  (Progress 100%)
   * Cara menebalkan sebagian teks
   * Belajar branch dan merging source.
   * Belajar berkolaborasi Git dengan developer lainnya melalui fitur fork dan pull request
+
+
+**18 Agustus 2023**  
+Menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progress 100%) 
+  * Memahami jenis - jenis logika
+  * Memahami computanional thinking
